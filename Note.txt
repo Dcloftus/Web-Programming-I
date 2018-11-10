@@ -4,4 +4,4 @@ to run virtual enviroment --       source venv/bin/activate
 
 to tell flask how to import --     export FLASK_APP=microblog.py
 
-to run application --              flask run
+to run application --              flask runexit
